@@ -10,3 +10,5 @@
     
 :heart:
 :smile:
+
+Some parts of text are *italic*, some are **Bold** __and some are **combined**__ 
